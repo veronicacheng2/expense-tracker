@@ -1,4 +1,4 @@
-## simple expense-tracker
+# simple expense-tracker
 mern stack 
 
 ### Features
@@ -7,4 +7,7 @@ mern stack
 3. show total income 
 4. show total expense
 5. dashboard 
+
+#### Screenshot
+<img src="https://github.com/veronicacheng2/expense-tracker/blob/main/Home%20page%20demo.png">
 
