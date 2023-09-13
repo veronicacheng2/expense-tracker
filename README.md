@@ -9,5 +9,5 @@ mern stack
 5. dashboard 
 
 #### Screenshot
-<img src="https://github.com/veronicacheng2/expense-tracker/blob/main/Home%20page%20demo.png">
+<img src="https://github.com/veronicacheng2/expense-tracker/blob/main/expense-tracker.png">
 
